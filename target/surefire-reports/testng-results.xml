@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="21908" started-at="2021-01-17T13:29:24 EST" finished-at="2021-01-17T13:29:46 EST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="21908" started-at="2021-01-17T13:29:24 EST" finished-at="2021-01-17T13:29:46 EST">
+      <class name="mpack.NegetiveTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mpack.NegetiveTest@49993335]" name="setup" is-config="true" duration-ms="6886" started-at="2021-01-17T13:29:24 EST" finished-at="2021-01-17T13:29:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="postest()[pri:1, instance:mpack.NegetiveTest@49993335]" name="postest" duration-ms="791" started-at="2021-01-17T13:29:31 EST" finished-at="2021-01-17T13:29:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postest -->
+        <test-method status="PASS" signature="closeall()[pri:0, instance:mpack.NegetiveTest@49993335]" name="closeall" is-config="true" duration-ms="615" started-at="2021-01-17T13:29:32 EST" finished-at="2021-01-17T13:29:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeall -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mpack.NegetiveTest@49993335]" name="setup" is-config="true" duration-ms="5764" started-at="2021-01-17T13:29:32 EST" finished-at="2021-01-17T13:29:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="neg1()[pri:2, instance:mpack.NegetiveTest@49993335]" name="neg1" duration-ms="431" started-at="2021-01-17T13:29:38 EST" finished-at="2021-01-17T13:29:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- neg1 -->
+        <test-method status="PASS" signature="closeall()[pri:0, instance:mpack.NegetiveTest@49993335]" name="closeall" is-config="true" duration-ms="599" started-at="2021-01-17T13:29:38 EST" finished-at="2021-01-17T13:29:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeall -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mpack.NegetiveTest@49993335]" name="setup" is-config="true" duration-ms="5725" started-at="2021-01-17T13:29:39 EST" finished-at="2021-01-17T13:29:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="neg2()[pri:3, instance:mpack.NegetiveTest@49993335]" name="neg2" duration-ms="441" started-at="2021-01-17T13:29:45 EST" finished-at="2021-01-17T13:29:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- neg2 -->
+        <test-method status="PASS" signature="closeall()[pri:0, instance:mpack.NegetiveTest@49993335]" name="closeall" is-config="true" duration-ms="606" started-at="2021-01-17T13:29:45 EST" finished-at="2021-01-17T13:29:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeall -->
+      </class> <!-- mpack.NegetiveTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
